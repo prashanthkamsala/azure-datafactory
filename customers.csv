@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Email,Country
+1,John,Doe,john.doe@example.com,USA
+2,Jane,Smith,jane.smith@example.com,UK
+3,Ali,Khan,ali.khan@example.com,UAE
+4,Maria,Garcia,maria.garcia@example.com,Spain
+5,Chen,Wang,chen.wang@example.com,China
